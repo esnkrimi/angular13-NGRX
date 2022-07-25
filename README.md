@@ -1,5 +1,6 @@
 # angular13-NGRX
-This project include action ,effect and selects for fetching currency rates at ***FOREX market***
+This project include action ,effect and selects for fetching currency rates at ***FOREX market***.
+also I create metareducer for routing detection
 ****
 
 
